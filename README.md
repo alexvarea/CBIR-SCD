@@ -1,7 +1,7 @@
 # CBIR-SCD
 CBIR System implementing Scalable Color Descriptor using Haar transform with 32 coefficients and MSE distance to extract candidates.
 
-## SCD_5.m
+## SCD_5_v2.m
 Codi principal del projecte. Llegeix input.txt amb les query images i retorna un output.txt amb 10 candidats per cada imatge d'entrada.
 ## Descriptors.m
 Script per generar la matriu "descriptors.mat".
