@@ -4,8 +4,8 @@ CBIR System implementing Scalable Color Descriptor using Haar transform with 32 
 # Carpetes
 ## Database descriptors generators
 Aquí es troben els scripts "database_descriptors.m" i database_HSV_descriptors.m" que generen, en aquest ordre:
-- descriptors.mat : Matriu 2000x256 que conté els 256 coeficients de Haar per a cada una de les 2000 imatges de la base de dades.
-- descriptors_HSV.mat : Matriu 2000x256 que conté els 256 bins dels histogrames HSV de cada una de les 2000 imatges de la base de dades.
+- **descriptors.mat** : Matriu 2000x256 que conté els 256 coeficients de Haar per a cada una de les 2000 imatges de la base de dades.
+- **descriptors_HSV.mat**: Matriu 2000x256 que conté els 256 bins dels histogrames HSV de cada una de les 2000 imatges de la base de dades.
 Un cop generades aquestes matrius, es guarden i posteriorment es carreguen al main del sistema.
 
 ## Functions
