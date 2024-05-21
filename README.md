@@ -20,3 +20,6 @@ Retorna un histograma HSV de la imatge resultant de combinar els 3 canals quanti
 
 ## main.m
 Codi principal del projecte. Llegeix input.txt amb les query images i retorna un output.txt amb 10 candidats per cada imatge d'entrada.
+
+# Resultats
+![Resultats](Images/resultats.jpg)
